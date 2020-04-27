@@ -14,7 +14,7 @@ About OneConsultation, the problems it solves and how it integrates with your ex
 How the setup and on-boarding process works, from first contact to fully-running service.
 
 ## [Data Security & Service Resiliancy](security_and_resiliancy.md)
-Everything you need about what data is stored where, and how OneConsultation is built for scale.
+Everything you need to know about what data is stored where, and how OneConsultation is built for scale.
 
 ## [Authentication Detail](auth.md)
 A deep dive into how the authentication process in OneConsultation works.
