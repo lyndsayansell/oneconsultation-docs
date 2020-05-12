@@ -11,7 +11,7 @@ To check the status of OneConsultation at any time, or to review scheduled maint
 About OneConsultation, the problems it solves and how it integrates with your existing systems. A living collection of FAQs which is updated based on your feedback.
 
 ## [Setup Steps](setup-steps.md)
-How the setup and on-boarding process works, from first contact to fully-running service.
+How the setup and on-boarding process works, from first contact to live production service.
 
 ## [Data Security & Service Resiliancy](security_and_resiliancy.md)
 Everything you need about what data is stored where, and how OneConsultation is built for scale.
