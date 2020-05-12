@@ -59,7 +59,7 @@ To grant this access, visit this URL and authenticate as an Office 365 Admin: [l
 For trials, all users in your organisation are automatically granted access to use OneConsultation, and a single room area is created. However, there are a number of customisations you can make during the trial process, before you progress from trial to production, or at any time when in production. Please note all customisations can take up to 3 working days.
 
 ### Appearance
-For both production and trial, it is possible to customise the appearance of the user-facing portal. The image, title text, explanatory wording and questions can all be changed. Provide us with details of any required changes.
+For both production and trial, it is possible to customise the appearance of the user-facing portal. The image, title text, explanatory wording and questions can all be changed. Please provide us with details of any required changes.
 
 ### Virtual waiting rooms 
 If you would like us to configure multiple virtual waiting room areas, you'll need to provide us with the details - we can give you a form for this.  
